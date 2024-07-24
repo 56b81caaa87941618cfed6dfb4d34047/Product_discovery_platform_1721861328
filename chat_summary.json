@@ -12,5 +12,11 @@
         "content": "add a navbar with the fields home, about and contact",
         "timestamp": "24072024224904",
         "message_id": "mymessageid"
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the fields home, about and contact",
+        "timestamp": "24072024225147",
+        "message_id": "mymessageid"
     }
 ]
